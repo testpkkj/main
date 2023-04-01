@@ -1,0 +1,534 @@
+[
+    {
+        "title": "Ad Showcase",
+        "id": 140
+    },
+    {
+        "title": "DH Showcase",
+        "id": 141
+    },
+    {
+        "title": "Action Sports HD1",
+        "id": 43
+    },
+    {
+        "title": "Action Sports HD2",
+        "id": 40
+    },
+    {
+        "title": "Sony Sports 1 HD",
+        "id": 21
+    },
+    {
+        "title": "Sony Sports 2 HD",
+        "id": 46
+    },
+    {
+        "title": "Sony Sports 3 HD",
+        "id": 38
+    },
+    {
+        "title": "Sony Sports 5 HD",
+        "id": 19
+    },
+    {
+        "title": "A Sports HD",
+        "id": 37
+    },
+    {
+        "title": "DD Sports",
+        "id": 98
+    },
+    {
+        "title": "Sony HD",
+        "id": 42
+    },
+    {
+        "title": "Zee TV HD",
+        "id": 53
+    },
+    {
+        "title": "& TV HD",
+        "id": 47
+    },
+    {
+        "title": "Colors HD",
+        "id": 8
+    },
+    {
+        "title": "Sony SAB",
+        "id": 137
+    },
+    {
+        "title": "Colors Rishtey",
+        "id": 127
+    },
+    {
+        "title": "MTV",
+        "id": 130
+    },
+    {
+        "title": "Colors Infinity",
+        "id": 126
+    },
+    {
+        "title": "Comedy Central",
+        "id": 128
+    },
+    {
+        "title": "Zee Café HD",
+        "id": 121
+    },
+    {
+        "title": "TV5 Monde",
+        "id": 18
+    },
+    {
+        "title": "Anjan TV",
+        "id": 168
+    },
+    {
+        "title": "Sony PAL",
+        "id": 72
+    },
+    {
+        "title": "Dangal",
+        "id": 71
+    },
+    {
+        "title": "Zee Anamol",
+        "id": 103
+    },
+    {
+        "title": "Discovery HD",
+        "id": 48
+    },
+    {
+        "title": "Animal Planet HD",
+        "id": 39
+    },
+    {
+        "title": "TLC HD",
+        "id": 116
+    },
+    {
+        "title": "BBC Earth HD",
+        "id": 138
+    },
+    {
+        "title": "Discovery Science",
+        "id": 34
+    },
+    {
+        "title": "Discovery Turbo",
+        "id": 36
+    },
+    {
+        "title": "My Zen TV",
+        "id": 115
+    },
+    {
+        "title": "Fashion HD",
+        "id": 83
+    },
+    {
+        "title": "History TV 18",
+        "id": 61
+    },
+    {
+        "title": "Arirang HD",
+        "id": 78
+    },
+    {
+        "title": "DD National HD",
+        "id": 100
+    },
+    {
+        "title": "HBO HD",
+        "id": 54
+    },
+    {
+        "title": "Cinemax HD",
+        "id": 20
+    },
+    {
+        "title": "HBO Signature HD",
+        "id": 118
+    },
+    {
+        "title": "HBO Hits HD",
+        "id": 119
+    },
+    {
+        "title": "HBO Family HD",
+        "id": 120
+    },
+    {
+        "title": "Sony PIX",
+        "id": 15
+    },
+    {
+        "title": "Lotus Macau HD",
+        "id": 97
+    },
+    {
+        "title": "Shorts TV HD",
+        "id": 45
+    },
+    {
+        "title": "Sony MAX HD",
+        "id": 52
+    },
+    {
+        "title": "Zee Cinema HD",
+        "id": 23
+    },
+    {
+        "title": "& Pictures HD",
+        "id": 51
+    },
+    {
+        "title": "Colors Cineplex HD",
+        "id": 31
+    },
+    {
+        "title": "Goldmines TV",
+        "id": 59
+    },
+    {
+        "title": "Sony MAX 2",
+        "id": 17
+    },
+    {
+        "title": "Zee Bollywood",
+        "id": 129
+    },
+    {
+        "title": "B4U Movies",
+        "id": 27
+    },
+    {
+        "title": "Zee Action",
+        "id": 30
+    },
+    {
+        "title": "D Movies",
+        "id": 131
+    },
+    {
+        "title": "Madhesh Plus HD",
+        "id": 173
+    },
+    {
+        "title": "Zee Classic",
+        "id": 106
+    },
+    {
+        "title": "Shemaroo",
+        "id": 108
+    },
+    {
+        "title": "Bhojpuri Cinema",
+        "id": 112
+    },
+    {
+        "title": "Vh1",
+        "id": 143
+    },
+    {
+        "title": "MTV Beats",
+        "id": 24
+    },
+    {
+        "title": "Zoom",
+        "id": 16
+    },
+    {
+        "title": "Zing",
+        "id": 14
+    },
+    {
+        "title": "D Music",
+        "id": 132
+    },
+    {
+        "title": "M Tunes",
+        "id": 74
+    },
+    {
+        "title": "Sangeet Bhojpuri",
+        "id": 114
+    },
+    {
+        "title": "9XM",
+        "id": 167
+    },
+    {
+        "title": "Discovery Kids",
+        "id": 12
+    },
+    {
+        "title": "Sonic",
+        "id": 13
+    },
+    {
+        "title": "Nick",
+        "id": 28
+    },
+    {
+        "title": "Sony Yay",
+        "id": 29
+    },
+    {
+        "title": "Junior TV",
+        "id": 96
+    },
+    {
+        "title": "Cbeebies HD",
+        "id": 139
+    },
+    {
+        "title": "Nick Jr",
+        "id": 62
+    },
+    {
+        "title": "CNN",
+        "id": 10
+    },
+    {
+        "title": "Aljazeera",
+        "id": 153
+    },
+    {
+        "title": "Euro News",
+        "id": 32
+    },
+    {
+        "title": "France 24 HD",
+        "id": 169
+    },
+    {
+        "title": "CNA HD",
+        "id": 123
+    },
+    {
+        "title": "DW HD",
+        "id": 124
+    },
+    {
+        "title": "KBS Korea HD",
+        "id": 122
+    },
+    {
+        "title": "TRT World HD",
+        "id": 56
+    },
+    {
+        "title": "RT News",
+        "id": 180
+    },
+    {
+        "title": "NHK World HD",
+        "id": 67
+    },
+    {
+        "title": "BBC World News",
+        "id": 81
+    },
+    {
+        "title": "CGTN",
+        "id": 93
+    },
+    {
+        "title": "Zee News",
+        "id": 9
+    },
+    {
+        "title": "Times Now",
+        "id": 26
+    },
+    {
+        "title": "NDTV India",
+        "id": 25
+    },
+    {
+        "title": "News 18",
+        "id": 35
+    },
+    {
+        "title": "Zee Business",
+        "id": 73
+    },
+    {
+        "title": "ABP News",
+        "id": 75
+    },
+    {
+        "title": "Aaj Tak",
+        "id": 175
+    },
+    {
+        "title": "Aastha",
+        "id": 69
+    },
+    {
+        "title": "Sanskar",
+        "id": 68
+    },
+    {
+        "title": "Peace of Mind",
+        "id": 76
+    },
+    {
+        "title": "Sarokar TV",
+        "id": 178
+    },
+    {
+        "title": "Galaxy 4K",
+        "id": 170
+    },
+    {
+        "title": "Kantipur HD",
+        "id": 41
+    },
+    {
+        "title": "Image HD",
+        "id": 155
+    },
+    {
+        "title": "NTV HD",
+        "id": 146
+    },
+    {
+        "title": "Sagarmatha",
+        "id": 157
+    },
+    {
+        "title": "Avenues Khabar",
+        "id": 162
+    },
+    {
+        "title": "News 24",
+        "id": 156
+    },
+    {
+        "title": "ABC News",
+        "id": 158
+    },
+    {
+        "title": "Mountain HD",
+        "id": 151
+    },
+    {
+        "title": "Himalaya TV HD",
+        "id": 22
+    },
+    {
+        "title": "AP1 HD",
+        "id": 44
+    },
+    {
+        "title": "NTV News HD",
+        "id": 149
+    },
+    {
+        "title": "TV Today HD",
+        "id": 148
+    },
+    {
+        "title": "Prime Times HD",
+        "id": 150
+    },
+    {
+        "title": "Yoho TV",
+        "id": 159
+    },
+    {
+        "title": "Me TV",
+        "id": 171
+    },
+    {
+        "title": "iTV Nepal",
+        "id": 154
+    },
+    {
+        "title": "News Nepal",
+        "id": 163
+    },
+    {
+        "title": "Global TV",
+        "id": 160
+    },
+    {
+        "title": "TV Today Janakpur",
+        "id": 176
+    },
+    {
+        "title": "Appan TV",
+        "id": 177
+    },
+    {
+        "title": "NTV Itahari",
+        "id": 92
+    },
+    {
+        "title": "NTV Plus HD",
+        "id": 102
+    },
+    {
+        "title": "Nepal Mandal",
+        "id": 70
+    },
+    {
+        "title": "Bhakti Darshan HD",
+        "id": 147
+    },
+    {
+        "title": "Omkar",
+        "id": 152
+    },
+    {
+        "title": "TV Filmy",
+        "id": 165
+    },
+    {
+        "title": "Kantipur Cineplex HD",
+        "id": 117
+    },
+    {
+        "title": "BM HD",
+        "id": 89
+    },
+    {
+        "title": "Plus Movie HD",
+        "id": 55
+    },
+    {
+        "title": "Ramailo HD",
+        "id": 49
+    },
+    {
+        "title": "Gunjan HD",
+        "id": 50
+    },
+    {
+        "title": "Cine Hits",
+        "id": 33
+    },
+    {
+        "title": "Comedy Plus",
+        "id": 11
+    },
+    {
+        "title": "Reality TV",
+        "id": 136
+    },
+    {
+        "title": "Rhymes TV",
+        "id": 87
+    },
+    {
+        "title": "B4U Music",
+        "id": 125
+    }
+]
